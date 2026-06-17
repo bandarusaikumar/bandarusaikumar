@@ -13,26 +13,6 @@ I'm a **full-stack developer** specializing in microservices architecture, cloud
 **Security**: Cloud security, penetration testing, infrastructure hardening, API security  
 **Other**: GraphQL, REST APIs, Microservices, WebSockets, Message queues
 
-### Current Project: Enterprise CRM Platform
+### 🚀 What I'm Working On
 
-A scalable, distributed CRM system built with modern microservices architecture designed to handle complex business operations across multiple locations.
-
-**Architecture Highlights:**
-- Distributed microservices backend with independent services
-- Real-time data synchronization and event-driven communication
-- Advanced database design with audit trails and compliance features
-- Multi-tenant support with role-based access control
-- Comprehensive monitoring and logging across all services
-
-**Key Focus Areas:**
-- System reliability and high availability
-- Data security and compliance
-- Performance optimization at scale
-- Infrastructure automation and deployment pipelines
-- Cloud-native design patterns
-
-### 📋 2026 Recent Projects:
-- **Application migration & email infrastructure**: AWS SES, CloudFront, and DNS optimization
-- **Database schema design**: Row-level security, DDL event triggers, and multi-tenancy support
-- **CI/CD automation**: GitHub Actions and infrastructure-as-code patterns
-- **Security audits**: CloudFront/WAF optimization, IP allowlisting, and access control implementation
+Building scalable microservices-based systems with focus on cloud infrastructure, database optimization, and security. Currently working on enterprise-grade applications with distributed architecture, advanced audit logging, and multi-tenant support on Cloud.
